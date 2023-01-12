@@ -29,7 +29,7 @@ Execute the program
 </center>
 <br>
 <table align="center" width="540" cellspacing="2" cellpadding="4" border="5" bgcolor="cyan">
-<caption><b>SLOT TIME TABLE - SHANMUGA PRIYA T (22008577)</b></caption>
+<caption><b>SLOT TIME TABLE - Shanmuga Priya(22008577)</b></caption>
 <tr align="center">
 <th bgcolor="yellow">Day/Time</th>
 <th bgcolor="yellow">Monday</th>
@@ -114,10 +114,10 @@ Execute the program
 ```
 
 # OUPUT
-![OUTPUT](http://shanmugapriya.student.saveetha.in:8000/static/images/Screenshot(15).png?raw=true)
+![OUTPUT](http://shanmugapriya.student.saveetha.in:8000/static/images/out.png?raw=true)
 
 # HTML VALIDATOR
-![HTML VALIDATOR](http://shanmugapriya.student.saveetha.in:8000/static/images/Screenshot(15).png?raw=true)
+![HTML VALIDATOR](http://shanmugapriya.student.saveetha.in:8000/static/images/valid.png?raw=true)
 
 # RESULT
 The program for creating slot time table is complted successfully
