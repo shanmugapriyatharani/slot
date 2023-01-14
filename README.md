@@ -29,7 +29,7 @@ Execute the program
 </center>
 <br>
 <table align="center" width="540" cellspacing="2" cellpadding="4" border="5" bgcolor="cyan">
-<caption><b>SLOT TIME TABLE - Shanmuga Priya(22008577)</b></caption>
+<caption><b>SLOT TIME TABLE - SHANMUGA PRIYA T (22008577)</b></caption>
 <tr align="center">
 <th bgcolor="yellow">Day/Time</th>
 <th bgcolor="yellow">Monday</th>
@@ -40,7 +40,9 @@ Execute the program
 </tr>
 <tr align="center">
 <th bgcolor="yellow">8-10</th>
-<td colspan="3">FREE SLOT</td>
+<td>FREE SLOT</td>
+<td>FREE SLOT</td>
+<td>FREE SLOT</td>
 <td>PHY</td>
 <td>CHE</td>
 </tr>
@@ -58,14 +60,16 @@ Execute the program
 </tr>
 <tr align="center">
 <th bgcolor="yellow">1-3</th>
-<td colspan="2"> FREE SLOT </td>
+<td> FREE SLOT </td>
+<td>FREE SLOT</td>
 <td>MAT</td>
 <td>MAT</td>
 <td>SS</td>
 </tr>
 <tr align="center">
 <th bgcolor="yellow">3-5</th>
-<td colspan="2"> FREE SLOT </td>
+<td> FREE SLOT </td>
+<td>FREE SLOT</td>
 <td>GER</td>
 <td>CHE</td>
 <td>FWAD</td>
